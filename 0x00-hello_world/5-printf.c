@@ -3,7 +3,7 @@
 /**
  * main -prints a string
  * Description: program uses printf
- * Return -0
+ * return -0
  */
 
 int main(void)
