@@ -1,9 +1,9 @@
 #include <stdio.h>
 
 /**
- * main - Print a string
- *  uses printf
- * Returns to  0
+ * main -prints a string
+ * Description -program uses printf
+ * Return (0)
  */
 
 int main(void)
