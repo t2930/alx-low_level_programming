@@ -3,9 +3,8 @@
 /**
  * main -prints a string
  * Description: program uses printf
- * return -0
+ * Return: Always 0 (Sucess)
  */
-
 int main(void)
 {
 	printf("%s", "with proper grammar, but the outcome is a piece of art,\n");
